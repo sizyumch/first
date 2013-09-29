@@ -7,5 +7,8 @@
  */
 public class first
 {
-
+    private void firstPrivateMethod()
+    {
+        System.out.println("In first private method");
+    }
 }
