@@ -7,6 +7,11 @@
  */
 public class first
 {
+    public first()
+    {
+        firstPrivateMethod();
+    }
+
     private void firstPrivateMethod()
     {
         System.out.println("In first private method");
